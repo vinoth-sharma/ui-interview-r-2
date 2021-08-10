@@ -1,0 +1,36 @@
+.books-list-container{
+    padding: 1em 1.725em;
+    margin: 1em 1.725em;
+    box-shadow: 1px 2px 3px grey;
+}
+.book{
+    width: 350px;
+    background-color: #E3F1FF;
+    margin: 10px;
+    padding: 16px 12px;
+}
+.book .bookname{
+    font-size: 20px;
+    font-weight: 100;
+}
+.author{
+    font-weight: 700;
+}
+.books-list{
+    height: 500px;
+    overflow: auto;
+}
+.header-table{
+    justify-content: space-between;
+    align-items: center;
+}
+
+.title-table{
+    width: 350px;
+    background-color: #b0d8ff;
+    margin: 10px;
+    padding: 16px 12px;
+}
+img{
+    width: 20px;
+}
